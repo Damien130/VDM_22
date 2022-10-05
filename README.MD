@@ -1,4 +1,4 @@
-Hello There
+привет товарищ!
 
-Welcome to the F14 RIO cockpit
-You will fly out with Maverick tomorrow morning
+Welcome to your Mikoyan-Gurevich 21, the Pencil.
+This will be your jet, you will fly out with Vladimir tomorrow.
