@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="exec_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exec_test">
+				<Option output="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/exec_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/include"/>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/../../../../include"/>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/include-fixed"/>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 exec_test"/>
+					<CompileFile command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exec_test/fast">
+				<Option output="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/exec_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/include"/>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/../../../../include"/>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/include-fixed"/>
+					<Add directory="c:\devs\mingw32\bin\../lib/gcc/i686-w64-mingw32/7.5.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 exec_test/fast"/>
+					<CompileFile command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Devs/mingw32/bin/mingw32-make.exe -f &quot;D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/analog_pin.c">
+			<Option target="exec_test"/>
+		</Unit>
+		<Unit filename="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/bogey.c">
+			<Option target="exec_test"/>
+		</Unit>
+		<Unit filename="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/digital_pin.c">
+			<Option target="exec_test"/>
+		</Unit>
+		<Unit filename="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/gameplay.c">
+			<Option target="exec_test"/>
+		</Unit>
+		<Unit filename="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/main.c">
+			<Option target="exec_test"/>
+		</Unit>
+		<Unit filename="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/vdm22.h">
+			<Option target="exec_test"/>
+		</Unit>
+		<Unit filename="D:/Academics/FA2022/JDFU/ASSIGNMENTS/PJ2/arduino/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
