@@ -116,8 +116,50 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGSDDNXX
 
+[Document5]
+DocumentPath=RWR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RMJRVSSZ
+
+[Document6]
+DocumentPath=RWR.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WOPGXMLT
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for VDM-22\Design Rule Check - Joystick Board.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for VDM-22\Design Rule Check - Processor Board.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for VDM-22\Design Rule Check - RWR.html
 DItemRevisionGUID=
 
 [Configuration1]
